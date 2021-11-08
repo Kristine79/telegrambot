@@ -24,7 +24,7 @@ const keyboard = [
     [
         {
           text: 'Хочу проходить курсы',
-          url: 'http://gothic-shop.ru' //внешняя ссылка
+          url: 'http://ya.ru' //внешняя ссылка
         }
       ]
   ];
